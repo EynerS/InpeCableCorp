@@ -214,7 +214,8 @@ img {
 }
 
 .logo__img {
-    height: auto;
+    height: 100px;
+    height: 50px;
     /* Reduced slightly to make room for text */
     width: auto;
     object-fit: contain;
